@@ -4,66 +4,66 @@
 			<!-- Testimonial 1 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"All of a sudden, a valuation memo that our CFO previously spent almost a week preparing was completed within three or four hours."
+					"CELX uncovered $3.2M in hidden inefficiencies within our procurement process that we had no visibility into. The ROI was clear within the first quarter."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Sustainability Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading renewable energy company</div>
+					<div class="font-medium text-white text-sm">Chief Financial Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Mid-market manufacturing company</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 2 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"Sana gives us control over the AI, allowing us to choose the material it accesses and tailor its parameters to our specific needs."
+					"The AI-driven insights helped us predict supply chain bottlenecks 90 days in advance. We've transformed from reactive to proactive operations management."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Executive Vice President</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global medical technology provider</div>
+					<div class="font-medium text-white text-sm">VP of Operations</div>
+					<div class="text-gray-500 text-xs mt-0.5">Global industrial equipment manufacturer</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 3 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana Agents, even colleagues who aren't tech-savvy can leverage AI in their everyday work. It's empowered everyone, not just the experts."
+					"CELX's four-phase framework made the implementation seamless. Their team truly understands both the Celonis platform and our business challenges."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Head of Digitalization</div>
-					<div class="text-gray-500 text-xs mt-0.5">Major real estate group</div>
+					<div class="font-medium text-white text-sm">Director of Process Excellence</div>
+					<div class="text-gray-500 text-xs mt-0.5">Fortune 500 automotive supplier</div>
 				</div>
 			</div>
 
             <!-- Testimonial 4 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, our sales prep is now 10x quicker. Instead of spending hours gathering data manually, our team can instantly access the research insights they need—freeing them to focus on designing more meaningful, strategic client conversations."
+					"We reduced our order-to-cash cycle time by 45% within six months. The process transparency CELX provided was a game-changer for our finance operations."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Product Operations Lead</div>
-					<div class="text-gray-500 text-xs mt-0.5">International research and analytics firm</div>
+					<div class="font-medium text-white text-sm">Head of Finance Operations</div>
+					<div class="text-gray-500 text-xs mt-0.5">European manufacturing enterprise</div>
 				</div>
 			</div>
 
             <!-- Testimonial 5 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"We're leveraging our AI agents to find and compare product information, build sales arguments, support R&D, and much more. We see real operational efficiency, and Sana has already provided us with a quick payback."
+					"The continuous monitoring capability keeps our processes optimized. We now have real-time visibility into operational risks before they become problems."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">CEO</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global industrial automation company</div>
+					<div class="font-medium text-white text-sm">Chief Operating Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Mid-market logistics provider</div>
 				</div>
 			</div>
 
             <!-- Testimonial 6 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, we're creating assistants to accelerate everything from deal analysis to portfolio reviews, transforming the way our investment teams operate."
+					"CELX helped us move beyond intuition to data-driven decision making. Their Enterprise Intelligence framework transformed how we approach operational improvements."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Digital Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading private equity firm</div>
+					<div class="font-medium text-white text-sm">VP of Supply Chain</div>
+					<div class="text-gray-500 text-xs mt-0.5">Global consumer goods manufacturer</div>
 				</div>
 			</div>
 		</div>
